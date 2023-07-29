@@ -1,4 +1,4 @@
-const API_key = '633f3ecfa1a90ab07cc791adc3e4f562'
+const API_key = ''
 
 const meses = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre']
 
